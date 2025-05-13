@@ -32,11 +32,4 @@ A secure, cross-platform financial management app built with **React Native** fo
 
 ---
 
-## 🖥 Backend Setup
-
-```bash
-cd backend
-npm install
-node index.js
-
 
