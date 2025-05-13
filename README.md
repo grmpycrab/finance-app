@@ -1,6 +1,6 @@
 # finance-app
 
-# 💸 FinanceApp: Personal Budget & Expense Tracker
+# FinanceApp: Personal Budget & Expense Tracker
 
 A secure, cross-platform financial management app built with **React Native** for the frontend and **Node.js/Express** for the backend. It enables real-time tracking of expenses, secure authentication, and financial insights (with bank integration support via **Plaid Sandbox**).
 
